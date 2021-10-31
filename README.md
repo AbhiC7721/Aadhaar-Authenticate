@@ -31,5 +31,5 @@ How could we use Aadhaar services to create an application for smooth check-in t
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lZTfSNPmnc4/0.jpg)](https://www.youtube.com/watch?v=lZTfSNPmnc4)
 
 ## DEMO: 
-<img src="https://raw.githubusercontent.com/AbhiC7721/Aadhaar-Authenticate/main/WhatsApp%20Image%202021-10-31%20at%2021.46.04.jpeg" alt="drawing" width="200"/>
+<img src="https://raw.githubusercontent.com/AbhiC7721/Aadhaar-Authenticate/main/Presentation%20and%20photos/WhatsApp%20Image%202021-10-31%20at%2021.46.04.jpeg" alt="drawing" width="200"/>
 
