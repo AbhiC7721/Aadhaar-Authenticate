@@ -24,7 +24,7 @@ How could we use Aadhaar services to create an application for smooth check-in t
 - #### VID WRapper API
 - #### eKYC API
 
-## PPT Link: [Link](https://drive.google.com/file/d/1FJLm7Lczb91E82SAWLPEx7SS0EX8eqSE/view)
+## PPT Link: [Link](https://drive.google.com/file/d/1tpZWYl4Af0wblKm8ICzx4m53xGZbZwXl/view?usp=sharing)
 
 ## Demo Video Link: 
 
