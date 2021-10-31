@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MyAadharVerifier" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorGreen2</item>
+        <item name="colorPrimaryVariant">@color/colorGreen2</item>
+        <item name="colorOnPrimary">@color/colorGreen2</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/colorGreen2</item>
+        <item name="colorSecondaryVariant">@color/colorGreen2</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <!-- Linear progress indication -->
+    <style name="LinearProgress" parent="Material.Drawable.LinearProgress">
+        <item name="lpd_strokeColors">@array/colorsArray</item>
+        <item name="lpd_travelDuration">3000</item>
+    </style>
+    <style name="Theme.MyAadharVerifier.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.MyAadharVerifier.AppBarOverlay"
+        parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="Theme.MyAadharVerifier.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.royrodriguez:transitionbutton:0.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b04311586ead4e3f93ca5ebc7b2051c4/transformed/jetified-transitionbutton-0.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b04311586ead4e3f93ca5ebc7b2051c4/transformed/jetified-transitionbutton-0.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b04311586ead4e3f93ca5ebc7b2051c4/transformed/jetified-transitionbutton-0.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.royrodriguez/transitionbutton/0.2.0/a921bac1a95273e6c7b1b380d6f8785441a9bca5/transitionbutton-0.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.royrodriguez/transitionbutton/0.2.0/77ff80696a77455e8f18b1e4d6991f21615237ba/transitionbutton-0.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
